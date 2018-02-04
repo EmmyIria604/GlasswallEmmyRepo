@@ -1,0 +1,769 @@
+
+=====================WELLCOME GlassWall(Encoded)=====================
+
+
+Encoding: UTF-16 Little Endian
+
+
+---------------------------------
+string len = 642
+hash = 67
+hash = 4395202
+hash = 558047244
+hash = 1334895432
+hash = 2012213002
+hash = 1930810295
+hash = 638982741
+hash = 2042985227
+hash = 1923368962
+hash = 2121251015
+hash = 3594877260
+hash = 879024647
+hash = 3201869832
+hash = 2673433165
+hash = 2437560645
+hash = 4203288644
+hash = 3221289180
+hash = 957955703
+hash = 1269653405
+hash = 4282877924
+hash = 1518236016
+hash = 3062754005
+hash = 3619801739
+hash = 3812350090
+hash = 3292809796
+hash = 2534557445
+hash = 1954839185
+hash = 657140212
+hash = 3448984414
+hash = 3936322677
+hash = 1102485780
+hash = 3305352256
+hash = 673670169
+hash = 1170907764
+hash = 3478256365
+hash = 1687745
+hash = 3340201952
+hash = 1856276615
+hash = 3271858590
+hash = 2545929807
+hash = 646104534
+hash = 1074049048
+hash = 1899976284
+hash = 888291524
+hash = 1214378155
+hash = 3234151035
+hash = 2869191781
+hash = 2054796587
+hash = 3642660359
+hash = 76409896
+hash = 185933375
+hash = 3631313395
+hash = 3051227950
+hash = 3436363967
+hash = 681340705
+hash = 1839225202
+hash = 1407714163
+hash = 2844514751
+hash = 2468976247
+hash = 3451062194
+hash = 2797659441
+hash = 4004079476
+hash = 589592063
+hash = 469240289
+hash = 3958075042
+hash = 2106735181
+hash = 558455144
+hash = 2322923782
+hash = 332480666
+hash = 555279899
+hash = 188457174
+hash = 1686279389
+hash = 1358930579
+hash = 2440823406
+hash = 3488782709
+hash = 3324560447
+hash = 2286373866
+hash = 3581259525
+hash = 922423977
+hash = 2591201185
+hash = 2580828401
+hash = 741403572
+hash = 3418227135
+hash = 629239398
+hash = 2839554939
+hash = 3527783351
+hash = 1927166572
+hash = 2132566268
+hash = 2834816548
+hash = 1931717420
+hash = 15933510
+hash = 1545269673
+hash = 2622126337
+hash = 4015310756
+hash = 2910921151
+hash = 3565571701
+hash = 2609008400
+hash = 2485220710
+hash = 3919701115
+hash = 1666333361
+hash = 2884465156
+hash = 3245543261
+hash = 2863515735
+hash = 3374009810
+hash = 3414828829
+hash = 1042063505
+hash = 3919348687
+hash = 22245432
+hash = 3284180541
+hash = 3399741804
+hash = 3485755896
+hash = 2337150061
+hash = 1554253607
+hash = 3548693249
+hash = 3500998065
+hash = 1480814324
+hash = 663506545
+hash = 167267823
+hash = 3255447107
+hash = 4005847778
+hash = 624317956
+hash = 2120428385
+hash = 1170779473
+hash = 3652429652
+hash = 982134298
+hash = 2518374601
+hash = 1233377756
+hash = 4048461207
+hash = 4293904457
+hash = 3293268570
+hash = 2564902031
+hash = 3959478181
+hash = 3956937216
+hash = 480931428
+hash = 2085956301
+hash = 3284306085
+hash = 3045368014
+hash = 1282511590
+hash = 1658398415
+hash = 2050985282
+hash = 2732966835
+hash = 3661506930
+hash = 3737006977
+hash = 72330547
+hash = 3167657974
+hash = 382688761
+hash = 4211155125
+hash = 3858500862
+hash = 2785358498
+hash = 233403975
+hash = 3803913181
+hash = 3890797512
+hash = 3994424998
+hash = 2920649550
+hash = 1788690587
+hash = 2102257291
+hash = 3166092446
+hash = 764832583
+hash = 2739627741
+hash = 2523615363
+hash = 1424740529
+hash = 3065601022
+hash = 1402708876
+hash = 920207323
+hash = 3209803610
+hash = 3430293391
+hash = 1889584277
+hash = 2082824464
+hash = 3997360912
+hash = 2240143716
+hash = 3176560644
+hash = 273385825
+hash = 2348273407
+hash = 1090187571
+hash = 4008991730
+hash = 705995009
+hash = 4229210020
+hash = 2830584253
+hash = 3470271989
+hash = 220616622
+hash = 2484966458
+hash = 125925990
+hash = 1396907914
+hash = 2634990440
+hash = 1779046151
+hash = 797092643
+hash = 1548426754
+hash = 3565052641
+hash = 2918929875
+hash = 648879885
+hash = 2745672820
+hash = 3937761532
+hash = 1000654451
+hash = 1946146489
+hash = 1655625715
+hash = 553264444
+hash = 1120610788
+hash = 2581811045
+hash = 777357897
+hash = 4048947290
+hash = 1820724882
+hash = 3280967267
+hash = 3065578177
+hash = 4199067108
+hash = 1170656143
+hash = 4152039522
+hash = 4289527888
+hash = 3957527523
+hash = 549774609
+hash = 4119158628
+hash = 3409345038
+hash = 2088110547
+hash = 2866768737
+hash = 2019323208
+hash = 201778471
+hash = 3671680263
+hash = 1082580250
+hash = 3192547794
+hash = 1042418451
+hash = 1433647565
+hash = 3242703330
+hash = 1250475780
+hash = 380305948
+hash = 2519827789
+hash = 2071776864
+hash = 840354320
+hash = 497793631
+hash = 128048595
+hash = 3198719841
+hash = 2195603776
+hash = 1978797870
+hash = 364887221
+hash = 384069872
+hash = 321375065
+hash = 2183400267
+hash = 304728026
+hash = 1075982100
+hash = 4152202848
+hash = 2118648329
+hash = 365002909
+hash = 3678119692
+hash = 2595888217
+hash = 807795290
+hash = 3551697968
+hash = 3039064131
+hash = 70951149
+hash = 2874841784
+hash = 3322155947
+hash = 3467368318
+hash = 3016231016
+hash = 1185026561
+hash = 1944284834
+hash = 4086970878
+hash = 754075115
+hash = 1435120963
+hash = 1111890915
+hash = 1797512524
+hash = 991917606
+hash = 48501703
+hash = 3387416154
+hash = 2389293210
+hash = 3298717263
+hash = 3511428576
+hash = 2812105358
+hash = 2454016274
+hash = 1344336866
+hash = 2885551373
+hash = 1485848147
+hash = 164779727
+hash = 3247594838
+hash = 5961802
+hash = 246225561
+hash = 3073543190
+hash = 2709944790
+hash = 971897878
+hash = 1034357199
+hash = 904555092
+hash = 2936285984
+hash = 1025940805
+hash = 2848306271
+hash = 2080793473
+hash = 3910368556
+hash = 3640118841
+hash = 859095163
+hash = 1517706925
+hash = 2714651906
+hash = 516355042
+hash = 2262304017
+hash = 876232527
+hash = 430216416
+hash = 3831538566
+hash = 3612229146
+hash = 979060937
+hash = 2772429286
+hash = 2493550598
+hash = 596210150
+hash = 817432575
+hash = 92796964
+hash = 1419383120
+hash = 3812246297
+hash = 779060118
+hash = 4043792984
+hash = 3005821896
+hash = 1256963737
+hash = 782034965
+hash = 1622285711
+hash = 3915662929
+hash = 3053342240
+hash = 397752850
+hash = 262884001
+hash = 633888211
+hash = 2854360866
+hash = 4119179728
+hash = 498516629
+hash = 311354135
+hash = 1950409482
+hash = 2130829290
+hash = 559946495
+hash = 1369810224
+hash = 3170084670
+hash = 657729717
+hash = 3465217267
+hash = 3643357238
+hash = 2841302458
+hash = 2199165158
+hash = 3673661705
+hash = 2214175133
+hash = 470533571
+hash = 2896735073
+hash = 685976896
+hash = 1026040628
+hash = 806660653
+hash = 2135089437
+hash = 848455319
+hash = 3634249624
+hash = 2391385736
+hash = 3127376874
+hash = 3682664187
+hash = 62505016
+hash = 2867744301
+hash = 1590836596
+hash = 2469470206
+hash = 1494540261
+hash = 3423082947
+hash = 1338070813
+hash = 4155601044
+hash = 1698608353
+hash = 2672788420
+hash = 3092606383
+hash = 3400859269
+hash = 3775898404
+hash = 100476491
+hash = 2677501155
+hash = 3005664336
+hash = 3806087161
+hash = 472823467
+hash = 2787767418
+hash = 3637324404
+hash = 2230416128
+hash = 711675241
+hash = 3184594237
+hash = 3283042924
+hash = 1787648249
+hash = 2445403578
+hash = 3295774950
+hash = 3772166413
+hash = 98734755
+hash = 90510978
+hash = 1784842849
+hash = 3097562696
+hash = 2112521246
+hash = 2161411019
+hash = 941059928
+hash = 1025271496
+hash = 1891978145
+hash = 204381453
+hash = 2626004633
+hash = 729612310
+hash = 3017344476
+hash = 1212445073
+hash = 979956496
+hash = 1390661988
+hash = 930383877
+hash = 766671274
+hash = 3096834372
+hash = 1579835356
+hash = 2353633157
+hash = 497109545
+hash = 2497331320
+hash = 3794656756
+hash = 2268962693
+hash = 3887022638
+hash = 1179601339
+hash = 2537432440
+hash = 1573075112
+hash = 1270018501
+hash = 2463006688
+hash = 2695985300
+hash = 71347412
+hash = 3099494555
+hash = 4286488201
+hash = 2125595690
+hash = 838403702
+hash = 1388222335
+hash = 4100343988
+hash = 1843389617
+hash = 4006234099
+hash = 196785389
+hash = 2548008636
+hash = 3871221938
+hash = 4051567598
+hash = 1911617491
+hash = 35650909
+hash = 2201770578
+hash = 2787916442
+hash = 528247890
+hash = 737192093
+hash = 2027323075
+hash = 999043654
+hash = 3653656488
+hash = 4151937723
+hash = 1906582641
+hash = 467007556
+hash = 3521911072
+hash = 3258593093
+hash = 4220953198
+hash = 2357197084
+hash = 2358922821
+hash = 3896394523
+hash = 1785562135
+hash = 3037364746
+hash = 262144234
+hash = 3645520383
+hash = 3007530544
+hash = 1673414206
+hash = 3524348323
+hash = 4226031497
+hash = 481084188
+hash = 3516924949
+hash = 2591424861
+hash = 73881110
+hash = 1803825054
+hash = 2770712599
+hash = 1549749705
+hash = 155002055
+hash = 1792216427
+hash = 1465601476
+hash = 3443270562
+hash = 2775500099
+hash = 2072349680
+hash = 4056772739
+hash = 4061245612
+hash = 1124498118
+hash = 4183701210
+hash = 2500427769
+hash = 760184488
+hash = 2771921862
+hash = 3566781982
+hash = 397853058
+hash = 2541461319
+hash = 3870503645
+hash = 4176905416
+hash = 3379735974
+hash = 1088339022
+hash = 3005110171
+hash = 1813155723
+hash = 672945054
+hash = 848729159
+hash = 123043308
+hash = 1274412340
+hash = 2931642435
+hash = 1356447973
+hash = 2793109692
+hash = 1897838264
+hash = 2370238312
+hash = 3151946492
+hash = 517332073
+hash = 1930051130
+hash = 2378125487
+hash = 851696516
+hash = 1505166821
+hash = 435123146
+hash = 3585572644
+hash = 390875727
+hash = 102058385
+hash = 3368950546
+hash = 2244651471
+hash = 2528037471
+hash = 3747794305
+hash = 3335623457
+hash = 2159293828
+hash = 3789368220
+hash = 3238640593
+hash = 1026963664
+hash = 1227357076
+hash = 4234865105
+hash = 136350351
+hash = 2324765075
+hash = 860375950
+hash = 3931674725
+hash = 1144160576
+hash = 1236127524
+hash = 4041865724
+hash = 1133544819
+hash = 637786043
+hash = 850204431
+hash = 2410130714
+hash = 123574740
+hash = 1776081810
+hash = 3907783005
+hash = 1534283349
+hash = 3484763992
+hash = 1693749001
+hash = 1731736491
+hash = 2592061310
+hash = 3169593457
+hash = 2794386493
+hash = 4050328355
+hash = 2222894590
+hash = 1227543024
+hash = 3547966065
+hash = 3043095099
+hash = 2505415934
+hash = 1561305845
+hash = 2311985844
+hash = 74224319
+hash = 2843155745
+hash = 3513854848
+hash = 3059332334
+hash = 2499905270
+hash = 844510890
+hash = 2581689406
+hash = 1387895729
+hash = 4150153478
+hash = 826011802
+hash = 240793178
+hash = 3196936334
+hash = 1163445089
+hash = 3560510802
+hash = 1331576723
+hash = 3351553357
+hash = 3467750999
+hash = 2349918158
+hash = 1610026005
+hash = 2850093460
+hash = 3354487775
+hash = 2689109066
+hash = 4263806629
+hash = 295838473
+hash = 2045747114
+hash = 2711767798
+hash = 300315373
+hash = 3668134068
+hash = 383968442
+hash = 2257603046
+hash = 1734881276
+hash = 2728382313
+hash = 3569158903
+hash = 1702671148
+hash = 2900105283
+hash = 2725050602
+hash = 4055581187
+hash = 3206037298
+hash = 1177128380
+hash = 3522552237
+hash = 2368702966
+hash = 1219032043
+hash = 3581871945
+hash = 2441857884
+hash = 2630028296
+hash = 2684876312
+hash = 1477283935
+hash = 1001752522
+hash = 964061994
+hash = 2404278206
+hash = 2751959010
+hash = 3988678925
+hash = 3941128871
+hash = 2851393409
+hash = 2730496292
+hash = 510146638
+hash = 3019103058
+hash = 609548702
+hash = 3934744145
+hash = 631580255
+hash = 1778610646
+hash = 2293171222
+hash = 2804416971
+hash = 614691177
+hash = 1973545280
+hash = 3692586799
+hash = 2435867903
+hash = 535288628
+hash = 3041063404
+hash = 2372241789
+hash = 1434048049
+hash = 3744249369
+hash = 2719600795
+hash = 3035977357
+hash = 3740093720
+hash = 696121608
+hash = 789072203
+hash = 3696560598
+hash = 1120103448
+hash = 3660552780
+hash = 1275263258
+hash = 2916437461
+hash = 357771229
+hash = 1733545927
+hash = 1030169113
+hash = 1048208520
+hash = 3299261930
+hash = 586333435
+hash = 1454866982
+hash = 3645835130
+hash = 2179782511
+hash = 3501720757
+hash = 1644046576
+hash = 1182536574
+hash = 1812384886
+hash = 1646416243
+hash = 2011499443
+hash = 2366693766
+hash = 2561507354
+hash = 315393753
+hash = 657338327
+hash = 3560228430
+hash = 4283092373
+hash = 2700974100
+hash = 914124114
+hash = 3589334935
+hash = 2380267148
+hash = 3903562965
+hash = 3876753623
+hash = 1852351829
+hash = 3507859556
+hash = 616196301
+hash = 1923926693
+hash = 53141198
+hash = 2790970598
+hash = 3309331663
+hash = 4020752123
+---------------------------------
+CENTRAL MISSOURI STATE UNIVERSITYManagement of Program Services Coun 5130Action
+Research ProjectEvaluation GuideThree references cited12345Questions identified to
+guide the research project Apollo Includes12345rationale of importanceIdentifies
+specific information to be collected methods of collection and 12345relationship of data
+to research questionsIdentifies specific information analysis methods used in Apollo Includes
+a rationale12345 Professor Sand Identifies what decisions can be made based on
+information analysis and how those decisions can be communicated with other populations in
+the Sandford area identify specifically12345
+ 	(4020752123)
+++++++++++++++++++++++++++++++++++++++++
+CENTRAL
+MISSOURI
+STATE
+UNIVERSITYManagement
+of
+Program
+Services
+Coun
+5130Action
+Research
+ProjectEvaluation
+GuideThree
+references
+cited12345Questions
+identified
+to
+guide
+the
+research
+project
+Apollo
+Includes12345rationale
+of
+importanceIdentifies
+specific
+information
+to
+be
+collected
+methods
+of
+collection
+and
+12345relationship
+of
+data
+to
+research
+questionsIdentifies
+specific
+information
+analysis
+methods
+used
+in
+Apollo
+Includes
+a
+rationale12345
+Professor
+Sand
+Identifies
+what
+decisions
+can
+be
+made
+based
+on
+information
+analysis
+and
+how
+those
+decisions
+can
+be
+communicated
+with
+other
+populations
+in
+the
+Sandford
+area
+identify
+specifically12345
+
+Number of Tokened String:70
+Size vecTFrag  = 1
+Delim          = 916
+Input file Name : (IriaGlassWell.txt)
+Number of ETX occurence: 1
+
+
+argc = 1, argv =  C:\Builds-tfs\GlassWall\Debug\GlassWall.exe
+
+Allocator performance measurement example
+Version: 1.0
+
+ForwardList PushFront - Default STL Allocator : 0.339130 seconds.
+ForwardList PushFront - Memory Pool Allocator : 0.313315 seconds.
+
+List PushFront - Default STL Allocator : 0.288452 seconds.
+List PushFront - Memory Pool Allocator : 0.270140 seconds.
+
+List PushBack - Default STL Allocator : 0.288471 seconds.
+List PushBack - Memory Pool Allocator : 0.273925 seconds.
+
+Map - Default STL Allocator : 1.034883 seconds.
+Map - Memory Pool Allocator : 0.953155 seconds.
+
+Set - Default STL Allocator : 1.152631 seconds.
+Set - Memory Pool Allocator : 1.154477 seconds.
+
+Elapsed Time(miliseconds ): 12106ms
+=====================BYE-BYE==============================

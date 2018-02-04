@@ -1,0 +1,5 @@
+﻿  GlassWall.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+crc32.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:REF' specification
+  GlassWall.vcxproj -> C:\Builds-tfs\GlassWall\Debug\GlassWall.exe
+  GlassWall.vcxproj -> C:\Builds-tfs\GlassWall\Debug\GlassWall.pdb (Partial PDB)
